@@ -1,0 +1,3 @@
+Strype  10  100
+Paper  5  20
+Toys  25  14

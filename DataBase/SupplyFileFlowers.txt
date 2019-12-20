@@ -1,0 +1,6 @@
+FreshFlower  SunFlower  20-06-2019  100  23.50  10
+FreshFlower  Rose  20-06-2019  80  25.50  10
+FreshFlower  SnowDrop  10-06-2019  20  35.0  10
+Plant  Cactus  200  15  115.0  10
+Plant  Cannabis  100  40  250  20
+PlasticFlower  Clove  Funeral  30  20  18
