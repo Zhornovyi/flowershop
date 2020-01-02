@@ -1,0 +1,2 @@
+ SunFlower	Length= 100	PeriodOfStorage= 20-06-2019	Price= 23.5	Quantity= 5
+TotalPrice:23

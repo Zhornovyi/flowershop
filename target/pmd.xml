@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.0.1" timestamp="2020-01-02T21:21:29.870">
+<file name="/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/src/main/java/flowershop/Buttons/CalcRevanue.java">
+<violation beginline="19" endline="19" begincolumn="17" endcolumn="18" rule="UnusedLocalVariable" ruleset="Best Practices" package="flowershop.Buttons" class="CalcRevanue" method="execute" variable="in" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedlocalvariable" priority="3">
+Avoid unused local variables such as 'in'.
+</violation>
+</file>
+<file name="/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/src/main/java/flowershop/Buttons/NewSupply.java">
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="29" rule="UnusedImports" ruleset="Best Practices" package="flowershop.Buttons" class="NewSupply" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'javax.xml.crypto.Data'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="37" rule="UnusedImports" ruleset="Best Practices" package="flowershop.Buttons" class="NewSupply" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.io.FileNotFoundException'
+</violation>
+</file>
+<file name="/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/src/main/java/flowershop/Buttons/Remove.java">
+<violation beginline="51" endline="54" begincolumn="25" endcolumn="25" rule="CollapsibleIfStatements" ruleset="Design" package="flowershop.Buttons" class="Remove" method="execute" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#collapsibleifstatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/src/main/java/flowershop/Flower/Flower.java">
+<violation beginline="2" endline="2" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Best Practices" package="flowershop.Flower" class="Flower" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.util.Date'
+</violation>
+</file>
+<file name="/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/src/main/java/flowershop/FlowerShop.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="37" rule="UnusedImports" ruleset="Best Practices" package="flowershop" class="FlowerShop" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'flowershop.Flower.FreshFlower'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="37" rule="UnusedImports" ruleset="Best Practices" package="flowershop" class="FlowerShop" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.io.FileNotFoundException'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Best Practices" package="flowershop" class="FlowerShop" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.text.ParseException'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="34" rule="UnusedImports" ruleset="Best Practices" package="flowershop" class="FlowerShop" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.text.SimpleDateFormat'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Best Practices" package="flowershop" class="FlowerShop" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.util.Date'
+</violation>
+<violation beginline="13" endline="13" begincolumn="1" endcolumn="25" rule="UnusedImports" ruleset="Best Practices" package="flowershop" class="FlowerShop" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.util.Scanner'
+</violation>
+</file>
+<file name="/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/src/main/java/flowershop/Main.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="28" rule="UnusedImports" ruleset="Best Practices" package="flowershop" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'flowershop.Buttons'
+</violation>
+</file>
+</pmd>
