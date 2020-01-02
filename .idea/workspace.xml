@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bfd19cb-b3a5-4a0c-b073-51383265745f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/flowershop/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/flowershop/Buttons/CalcRevanue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flowershop/Buttons/CalcRevanue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/flowershop/Buttons/NewSupply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flowershop/Buttons/NewSupply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +15,7 @@
     <favorites_list name="flowershop" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/flowershop" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VqrowBcoFe41cPLPCyGzeTaI2u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,8 +31,8 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
