@@ -4,6 +4,15 @@
     <list default="true" id="9bfd19cb-b3a5-4a0c-b073-51383265745f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flowershop/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flowershop/Bouquet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flowershop/Bouquet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flowershop/Buttons/CalcRevanue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flowershop/Buttons/CalcRevanue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flowershop/Buttons/NewSupply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flowershop/Buttons/NewSupply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flowershop/FlowerShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flowershop/FlowerShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flowershop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flowershop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flowershop/Bouquet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flowershop/Bouquet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flowershop/FlowerShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flowershop/FlowerShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flowershop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flowershop/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +24,8 @@
     <favorites_list name="flowershop" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/flowershop" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1VqrowBcoFe41cPLPCyGzeTaI2u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,7 +34,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
