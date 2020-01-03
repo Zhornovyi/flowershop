@@ -41,7 +41,7 @@ public class Bouquet {
         if (choice == 3){
             System.out.println("Just put the number here:");
             int choice2 = in.nextInt();
-            if (choice2 > flowers.size() || choice2 < 0) {
+            if (choice2 > Shop.getAllFlowers().size() || choice2 < 0) {
                 throw new IOException();
             }
             Flower currentFlower = Shop.getAllFlowers().get(choice2);
@@ -56,7 +56,7 @@ public class Bouquet {
             System.out.println("Just put the numbers here(Any letter in the end to stop):");
             while (in.hasNextInt()) {
                 int choice2 = in.nextInt();
-                if (choice2 > flowers.size() || choice2 < 0) {
+                if (choice2 > Shop.getAllFlowers().size() || choice2 < 0) {
                     throw new IOException();
                 }
                 int count;

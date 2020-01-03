@@ -22,7 +22,7 @@ public class FlowerShop {
         return fileReport;
     }
 
-    private File fileReport = new File("/Users/yehorzhornovyi/IdeaProjects/FlowerShop/Report"+this.getClass().getSimpleName()+".txt");
+    private File fileReport = new File("/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/Report"+this.getClass().getSimpleName()+".txt");
 
     public ArrayList<Decoration> getAllDecoration() {
         return allDecoration;

@@ -34,7 +34,7 @@ public class Main {
             System.out.println("6-Exit");
             try {
                 choice = in.nextInt();
-                if (choice > 5 || choice < 0) {
+                if (choice != 1 && choice != 2 && choice != 3 && choice != 4 &&choice != 5 && choice != 6) {
                     throw new IOException();
                 }
                 switch (choice) {

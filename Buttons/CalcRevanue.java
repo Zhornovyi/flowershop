@@ -18,7 +18,7 @@ public class CalcRevanue implements Command{
     public void execute() throws IOException, ParseException {
         Scanner in =new Scanner (System.in);
         double TotalRevenue = 0;
-        Scanner inFile = new Scanner(new File("/Users/yehorzhornovyi/IdeaProjects/FlowerShop/ReportFlowerShop.txt"));
+        Scanner inFile = new Scanner(new File("/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/ReportFlowerShop.txt"));
         try {
             while (inFile.hasNextLine()){
                 String line = inFile.nextLine();

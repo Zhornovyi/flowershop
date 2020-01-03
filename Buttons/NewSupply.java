@@ -75,7 +75,7 @@ public class NewSupply implements Command {
                 throw new IOException();
             }
         } else if (choice.equals("f")){
-            in = new Scanner(new File("/Users/yehorzhornovyi/IdeaProjects/FlowerShop/src/main/java/flowershop/DataBase/SupplyFileFlowers.txt"));
+            in = new Scanner(new File("/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/src/main/java/flowershop/DataBase/SupplyFileFlowers.txt"));
             while (in.hasNextLine()) {
                 String[] DATA = in.nextLine().split("  ", 6);
                 Flower New = null;
@@ -101,7 +101,7 @@ public class NewSupply implements Command {
             System.out.println("Do you want to add the decorations(y/n)");
             choice = in.nextLine();
             if (choice.equals("y")) {
-                in = new Scanner(new File("/Users/yehorzhornovyi/IdeaProjects/FlowerShop/src/main/java/flowershop/DataBase/SupplyFileDecoration.txt"));
+                in = new Scanner(new File("/Users/yehorzhornovyi/IdeaProjects/FlowerShop 2.0/src/main/java/flowershop/DataBase/SupplyFileDecoration.txt"));
                 while (in.hasNextLine()) {
                     String[] DATA = in.nextLine().split("  ", 3);
                     Decoration New = new Decoration(DATA[0], Double.parseDouble(DATA[1]), Integer.parseInt(DATA[2]));
